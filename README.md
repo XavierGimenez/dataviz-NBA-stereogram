@@ -2,7 +2,7 @@
 R code to populate an Observable notebook visualizing historical NBA features (age, weight, height) with an 3D stereogram.
 
 ### Data visualization in this Observable notebook:
-(https://observablehq.com/@xavigimenez/stereogram-dataviz-with-nba-historical-data)
+https://observablehq.com/@xavigimenez/stereogram-dataviz-with-nba-historical-data
 
 Initial datasets downloaded from https://www.kaggle.com/drgilermo/nba-players-stats.
 
